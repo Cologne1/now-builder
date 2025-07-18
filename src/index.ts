@@ -8,12 +8,14 @@ import {
   getNodeVersion,
   getSpawnOptions,
   createLambda,
-  Route,
   BuildOptions,
   Config,
   FileFsRef,
   Lambda,
 } from "@vercel/build-utils";
+import {
+  Route
+} from "@vercel/routing-utils";
 
 interface PackageJson {
   scripts?: {
