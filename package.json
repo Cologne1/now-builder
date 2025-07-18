@@ -7,7 +7,7 @@
     "url": "https://github.com/Cologne1/now-builder.git"
   },
   "engines": {
-    "node": ">=22.0.0"
+    "node": ">=20.0.0"
   },
   "main": "./dist/index.js",
   "keywords": [
