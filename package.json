@@ -1,10 +1,13 @@
 {
-  "name": "@frontity/now",
+  "name": "@Cologne1/now",
   "version": "1.2.2",
-  "description": "A Frontity builder for the Now hosting (Zeit)",
+  "description": "A Frontity builder Vercel with Node 22 / Fork of @frontity/now",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontity/now-builder.git"
+    "url": "https://github.com/Cologne1/now-builder.git"
+  },
+  "engines": {
+    "node": ">=22.0.0"
   },
   "main": "./dist/index.js",
   "keywords": [
