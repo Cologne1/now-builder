@@ -1,6 +1,9 @@
 {
-  "name": "@Cologne1/now",
-  "version": "1.2.2",
+  "name": "@cologne1/now",
+  "version": "1.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A Frontity builder Vercel with Node 22 / Fork of @frontity/now",
   "repository": {
     "type": "git",
